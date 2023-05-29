@@ -1,0 +1,142 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0;
+    display: block;
+    background-color:  #F8F8F8;
+}
+
+h1{
+    color:#283241;
+    font-size: 35px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 22px;
+    color: #3c5a82;
+}
+
+h4{
+    font-size: 20px;
+    color:#4B3A2E;
+}
+
+.navbar {
+    position: relative;
+    background-color: #274472; 
+    height: 50px;
+    padding-right: 100px;
+    padding-left:100px;  
+  }
+
+.menu-items{
+    margin-top: 5px;
+    color:white;
+    align-items: center;
+}
+
+li{
+    padding-right: 30px;
+}
+
+.navbar-items{
+    display: inline;
+}
+
+.items{
+    color:white;
+    text-decoration: none;
+}
+
+.items:hover {
+    color:white;
+    text-decoration: none;
+}
+
+.card-body{
+    margin: 10px 10px 10px 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.project{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.img-card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-display{
+    height: 170px;
+    width: 350px;
+}
+
+.content{
+    padding-top: 5px;
+    margin: 50px 50px 50px 50px;
+}
+
+.icon-display {
+    height: 25px;
+    width: 25px;
+}
+
+.icons{
+    align-items: center;
+    justify-content: center;
+}
+
+
+.sticky-top{
+    position: sticky;
+}
+
+.intro{
+    padding: 40px 40px 10px 40px;
+}
+
+.card-title{
+    color: #3c5a82;
+    text-decoration: none;
+}
+
+.card-title:hover{
+    color: #3c5a82;
+    text-decoration: underline;
+}
+
+.card-year{
+    font-size: 15px;
+    color:#4B3A2E;
+    
+}
+
+
+.vid-display{
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.about{
+    vertical-align: middle;
+}
+
+.seperation{
+    background-color: #DCDCDC;
+    padding: 1px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+
